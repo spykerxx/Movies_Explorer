@@ -44,12 +44,7 @@ You can install either version on your Android device for testing.
 
 <img width="476" height="943" alt="Screenshot 2025-07-07 132543" src="https://github.com/user-attachments/assets/b28622fe-7037-4d4a-9294-e128793148dd" />
 
-
-
-
-
-
-
+<img width="459" height="917" alt="Screenshot 2025-07-07 132459" src="https://github.com/user-attachments/assets/af2f95cf-042a-424f-b682-5fd72c472357" />
 
 
 
